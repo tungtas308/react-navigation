@@ -381,7 +381,7 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     bottom: 0,
-    borderTopWidth: StyleSheet.hairlineWidth,
+    borderTopWidth: 0,
     elevation: 8,
   },
   content: {
